@@ -14,7 +14,8 @@ Developed and verified a parameterized synchronous FIFO using Verilog HDL, Icaru
 - **Embedded Systems:** ESP32, UART, I2C, sensor interfacing
 - **Additional Domains:** RF and antenna design, hardware testing and verification
 
-## Featured RTL Project
+
+## Featured Engineering Projects
 
 ### [Parameterized Synchronous FIFO Using Verilog HDL](https://github.com/Adhokshaja-Kulakarni/Parameterized-Synchronous-FIFO-Verilog)
 
@@ -24,6 +25,24 @@ Developed and verified a parameterized synchronous FIFO using Verilog HDL, Icaru
 - Verified the default configuration through functional simulation using **Icarus Verilog and GTKWave**.
 
 **Tools:** Verilog HDL | Icarus Verilog | GTKWave
+
+### [38 GHz Star-Shaped Microstrip Antenna Array](https://github.com/Adhokshaja-Kulakarni/38GHz-Star-Shaped-Microstrip-Patch-Array-Antenna)
+
+- Designed and simulated a **38 GHz, 2×1 eight-point star-shaped microstrip antenna array** in CST Studio Suite.
+- Achieved simulated **S11 = −29.464 dB**, **VSWR ≈ 1.07**, and **gain = 6.481 dBi** at 38 GHz.
+- Evaluated impedance matching and far-field radiation characteristics for a proposed short-range radar application.
+
+**Tools:** CST Studio Suite | RF Simulation | Antenna Design
+
+### [ESP32 IoT Child Safety Wearable Device](https://github.com/Adhokshaja-Kulakarni/ESP32-IoT-Child-Safety-Wearable-Device)
+
+- Developed an **ESP32-based academic monitoring prototype** using Arduino IDE.
+- Integrated temperature and pulse sensing, I2C LCD display, and touch-triggered SOS functionality.
+- Implemented a Wi-Fi monitoring dashboard and Twilio-based WhatsApp emergency notification requests.
+- Documented the firmware, hardware architecture, and demonstration results in the project repository.
+
+**Tools:** ESP32 | Arduino IDE | C/C++ | I2C | Wi-Fi | IoT
+  
 
 ## Industrial Experience
 
